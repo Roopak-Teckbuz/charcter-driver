@@ -8,6 +8,7 @@
 #include<linux/sched.h>
 #include<uapi/linux/wait.h>
 #include<linux/poll.h>
+#include<linux/device.h>
 
 MODULE_AUTHOR("Teckbuz");
 MODULE_LICENSE("GPL");
